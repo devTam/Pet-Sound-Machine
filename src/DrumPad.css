@@ -8,14 +8,10 @@
 }
 
 
-@media(hover:hover) {
-    .drum-pad:hover {
-        box-shadow: none;
-        filter: none;
-    }
+.drum-pad:hover {
+    box-shadow: none;
+    filter: none;
 }
-
-
 
 .hover {
     box-shadow: none;
