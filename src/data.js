@@ -9,7 +9,7 @@ const Data = [
         picture: 'https://i.postimg.cc/mgmdGgx1/cow-min.jpg',
         id: 'Moo',
         letter: 'W',
-        src: 'https://pet-sounds.s3.us-east-2.amazonaws.com/cat.mp3'
+        src: 'https://pet-sounds.s3.us-east-2.amazonaws.com/cow.mp3'
     },
     {
         picture: 'https://i.postimg.cc/d0D5QcvH/dog-min.jpg',
@@ -21,7 +21,7 @@ const Data = [
         picture: 'https://i.postimg.cc/W4KXhY12/dolphin-min.jpg',
         id: 'Squeak',
         letter: 'A',
-        src: 'https://pet-sounds.s3.us-east-2.amazonaws.com/dog.mp3'
+        src: 'https://pet-sounds.s3.us-east-2.amazonaws.com/dolphin.mp3'
     },
     {
         picture: 'https://i.postimg.cc/MHJ5YcBN/guineapig-min.jpg',
@@ -45,7 +45,7 @@ const Data = [
         picture: 'https://i.postimg.cc/K88NQhKG/rooster-min.jpg',
         id: 'Crow',
         letter: 'X',
-        src: ''
+        src: 'https://pet-sounds.s3.us-east-2.amazonaws.com/rooster.mp3'
     },
     {
         picture: 'https://i.postimg.cc/dQG4VBPY/sheep-min.jpg',
